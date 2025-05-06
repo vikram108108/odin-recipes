@@ -1,1 +1,1 @@
-# odin-recipes
+This is the beggining of the 1st web page I have created with the odin project. It will be using HTML only.
